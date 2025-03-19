@@ -1,12 +1,47 @@
 body{
-    margin: 0px;
-    
-}
-h1{
-    color: #FFFFFF;
+    background-color: black;
 }
 nav{
-    position: fixed;
-    background-color: #2D2D2D;
     width: 100%;
+    height: 60px;
+    border-bottom: 2px white solid;
+    
+}
+main > h2{
+    color: aliceblue;
+    text-transform: capitalize;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1% ;
+
+}
+span > a {
+    color: aliceblue;
+    text-decoration: none;
+}
+span > img {
+    border: 1px solid red;
+}
+span {
+    float: left;
+    text-align: center;
+    
+}
+section > aside {
+    align-items: center;
+    border: 1px solid green;
+}
+
+aside{
+    text-align: center;
+    border: 1px solid red;
+}
+main{
+    align-items: CENTER;
+    width: 70%;
+    height: 40%;
+    
+}
+iframe{
+    margin: 5%;
 }
