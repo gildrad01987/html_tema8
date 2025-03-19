@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    
+}
+h1{
+    color: #FFFFFF;
+}
+nav{
+    position: fixed;
+    background-color: #2D2D2D;
+    width: 100%;
+}
